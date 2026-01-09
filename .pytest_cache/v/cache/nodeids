@@ -1,0 +1,4 @@
+[
+  "test_login.py::test_login_failure",
+  "test_login.py::test_login_success"
+]
